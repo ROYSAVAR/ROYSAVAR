@@ -23,7 +23,7 @@ I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=django" alt="bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" />
 </p>
 
