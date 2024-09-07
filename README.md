@@ -1,45 +1,46 @@
 ## Hi There! I'm [Roy](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=ROYSAVAR&color=blue)
-
 ### 👨‍💻 About Me
-I'm **Rogelio Salas Vargas**, a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
+I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
 
 📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
 🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/)
 
 ---
 
-### 🧠 **Education**
-- **Bachelor's in Artificial Intelligence Engineering**  
-  Universidad Panamericana, Aguascalientes, Mexico  
-
----
-
 ### 🛠️ **Technical Skills**
 #### **Programming Languages**  
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
 [![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
 
 #### **Web Development**  
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
 [![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
-
-#### **Microcontroller Programming**
-- AVR (C/C++)
 
 #### **Databases**  
 [![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
 #### **Tools & Others**  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)  
+[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)  
+[![Cocos2d-x](https://skillicons.dev/icons?i=cocos)](https://skillicons.dev)  
+[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)  
+[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
+#### **Other Tools**  
+- **Microchip Studio**  
+- **Proteus**  
+- **Processing**  
+- **VirtualBox**  
+- **NetBeans**
 
 ---
 
@@ -52,7 +53,7 @@ I'm **Rogelio Salas Vargas**, a Bachelor's student in **Artificial Intelligence 
 - Databases  
 - Object-Oriented Programming  
 - Mobile Application Development (Android)  
-- Web Application Development  
+- Web Application Development
 
 ---
 
