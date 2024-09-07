@@ -23,17 +23,19 @@ I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=django" alt="bootstrap" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" />
 </p>
 
 #### **Databases**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
 </p>
 
 #### **Tools & Others**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="github" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
@@ -71,11 +73,9 @@ I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor
 #### **License Plate Detection using Machine Learning (Feb 2024)**  
 Developed a license plate detection system in Python by training a model with a dataset of images to differentiate between plates and non-plates, followed by character recognition to extract plate information.
 
-#### **Blockchain (Blockdemy, Nov 2023)**  
-Completed a comprehensive Blockchain course through Blockdemy (Blockchain Academy), gaining hands-on experience in decentralized technologies.
+#### **Sumo Robot using AVR Microcontroller Atmega16A in C (March 2024)**  
+Developed an autonomous sumo robot using ATmega16A microcontroller programmed in C++, using sensors for detecting opponents and a motor control system for strategic movements.
 
-#### **Artificial Intelligence and Data Science (The Blockmarkers, Nov 2023)**  
-Obtained a certification in AI and Data Science, focusing on practical implementations of data analysis and AI solutions.
 
 ---
 
