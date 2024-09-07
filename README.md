@@ -3,8 +3,10 @@
 ### 👨‍💻 About Me
 I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
 
+I’m currently open for an Intern or a new job opportunity
+
 📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
-🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/)
+🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) | [Instagram](https://www.instagram.com/roy_savar/)
 
 ---
 
