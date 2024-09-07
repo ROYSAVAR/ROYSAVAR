@@ -10,37 +10,47 @@ I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor
 
 ### 🛠️ **Technical Skills**
 #### **Programming Languages**  
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)  
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)  
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)  
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+</p>
 
 #### **Web Development**  
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)  
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)  
-[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+</p>
 
 #### **Databases**  
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+</p>
 
 #### **Tools & Others**  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)  
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)  
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)  
-[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)  
-[![PyCharm](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)  
-[![Cocos2d-x](https://skillicons.dev/icons?i=cocos)](https://skillicons.dev)  
-[![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)  
-[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=cocos" alt="Cocos2d-x" />
+  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
+  <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+</p>
 
 #### **Other Tools**  
-- **Microchip Studio**  
-- **Proteus**  
-- **Processing**  
-- **VirtualBox**  
-- **NetBeans**
+<p align="center">
+  <strong>Microchip Studio</strong>  
+  <strong>Proteus</strong>  
+  <strong>Processing</strong>  
+  <strong>VirtualBox</strong>  
+  <strong>NetBeans</strong>
+</p>
 
 ---
 
