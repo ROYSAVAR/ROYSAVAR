@@ -45,15 +45,6 @@ I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor
   <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
 </p>
 
-#### **Other Tools**  
-<p align="center">
-  <strong>Microchip Studio</strong>  
-  <strong>Proteus</strong>  
-  <strong>Processing</strong>  
-  <strong>VirtualBox</strong>  
-  <strong>NetBeans</strong>
-</p>
-
 ---
 
 ### 🌱 **Coursework**
@@ -90,10 +81,10 @@ Developed an autonomous sumo robot using ATmega16A microcontroller programmed in
 - **Spanish**: Native  
 
 ---
-
+<!--
 ### 📊 **GitHub Stats**
 ![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROYSAVAR&show_icons=true&theme=radical)
-
+-->
 ---
 
 ### 🚀 **Contact Me**
