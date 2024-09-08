@@ -1,7 +1,8 @@
-## Hi There! I'm [Roy](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) 👋
+<h1 align="center"><b>Hi There! I'm [Roy](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/)</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 
 ### 👨‍💻 About Me
-I'm **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
+My name is **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
 
 I’m currently open for an Intern or a new job opportunity, this is [my_resume](https://drive.google.com/file/d/1Bd-5foUvnZJjslRtEF_uS31LJt9_0_Cv/view?usp=sharing)
 
