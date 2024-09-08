@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bachelor's+student+in+AI+Engineering;Passionate+about+Coding+and+Tech;Always+learning+and+growing!"&duration=3000">
 </p>
 
-
+---
 
 ### 👨‍💻 About Me
 My name is **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
@@ -34,6 +34,8 @@ I’m currently open for an Intern or a new job opportunity, this is [my_resume]
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" />
 </p>
+
+---
 
 #### **Databases**  
 <p align="center">
@@ -72,12 +74,16 @@ I’m currently open for an Intern or a new job opportunity, this is [my_resume]
 #### **License Plate Detection using Machine Learning (Feb 2024)**  
 Developed a license plate detection system in Python by training a model with a dataset of images to differentiate between plates and non-plates, followed by character recognition to extract plate information.
 
+---
+
 #### **Sumo Robot using AVR Microcontroller Atmega16A in C (March 2024)**  
 Developed an autonomous sumo robot using ATmega16A microcontroller programmed in C++, using sensors for detecting opponents and a motor control system for strategic movements.
 
+---
+
 #### **Egg incubator system using AVR Microcontroller Atmega16A in C (April 2024)**  
 Creating life...
-Egg incubator system using ATmega16A microcontroller, programed in c++, incorporating temperature and humidity control with a mobile app via Bluetooth for monitoring and adjustments.
+Egg incubator system using ATmega16A microcontroller, programmed in C++, incorporating temperature and humidity control with a mobile app via Bluetooth for monitoring and adjustments.
 
 ---
 
@@ -91,11 +97,6 @@ Egg incubator system using ATmega16A microcontroller, programed in c++, incorpor
 - **English**: Advanced  
 - **Spanish**: Native  
 
----
-<!--
-### 📊 **GitHub Stats**
-![Roy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROYSAVAR&show_icons=true&theme=radical)
--->
 ---
 
 ### 🚀 **Contact Me**
