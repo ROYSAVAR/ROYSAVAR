@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi There! I'm <a href="https://www.linkedin.com/in/rogelio-salas-vargas-565587304/" target="_blank">Roy</a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bachelor's+student+in+**Artificial+Intelligence+Engineering**+;at+**Universidad+Panamericana**">
 </p>
+
 
 ### 👨‍💻 About Me
 My name is **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
