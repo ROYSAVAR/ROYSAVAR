@@ -85,7 +85,7 @@ Developed an autonomous sumo robot using ATmega16A microcontroller programmed in
 Creating life...
 Egg incubator system using ATmega16A microcontroller, programmed in C++, incorporating temperature and humidity control with a mobile app via Bluetooth for monitoring and adjustments.
 
-
+---
 
 ### 📜 **Certifications**
 - **Blockchain** — *Blockdemy (Blockchain Academy)* — Issued: November 2023  
