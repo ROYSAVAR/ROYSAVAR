@@ -74,18 +74,18 @@ I’m currently open for an Intern or a new job opportunity, this is [my_resume]
 #### **License Plate Detection using Machine Learning (Feb 2024)**  
 Developed a license plate detection system in Python by training a model with a dataset of images to differentiate between plates and non-plates, followed by character recognition to extract plate information.
 
----
+
 
 #### **Sumo Robot using AVR Microcontroller Atmega16A in C (March 2024)**  
 Developed an autonomous sumo robot using ATmega16A microcontroller programmed in C++, using sensors for detecting opponents and a motor control system for strategic movements.
 
----
+
 
 #### **Egg incubator system using AVR Microcontroller Atmega16A in C (April 2024)**  
 Creating life...
 Egg incubator system using ATmega16A microcontroller, programmed in C++, incorporating temperature and humidity control with a mobile app via Bluetooth for monitoring and adjustments.
 
----
+
 
 ### 📜 **Certifications**
 - **Blockchain** — *Blockdemy (Blockchain Academy)* — Issued: November 2023  
