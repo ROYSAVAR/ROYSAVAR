@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bachelor's+student+in+AI+Engineering;Passionate+about+Coding+and+Tech;Always+learning+and+growing!"&duration=3000">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 👨‍💻 About Me
 My name is **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology, AI, machine learning, and web development, I’m constantly learning new skills and working on exciting projects!
@@ -14,7 +14,7 @@ I’m currently open for an Intern or a new job opportunity, this is [my_resume]
 📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
 🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) | [Instagram](https://www.instagram.com/roy_savar/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🛠️ **Technical Skills**
 #### **Programming Languages**  
@@ -97,7 +97,7 @@ Egg incubator system using ATmega16A microcontroller, programmed in C++, incorpo
 - **English**: Advanced  
 - **Spanish**: Native  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 **Contact Me**
 Feel free to reach out to me for collaboration or any exciting opportunities!
