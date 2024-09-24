@@ -58,7 +58,7 @@ I’m currently open for an Intern or a new job opportunity, this is [my_resume]
 
 ---
 
-### 🌱 **Coursework**
+### 🌱 **Courseworks**
 - Machine Learning  
 - Optimization and Metaheuristics  
 - Data Structures and Algorithms  
