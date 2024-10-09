@@ -51,7 +51,6 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
     <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
-    <img src="https://skillicons.dev/icons?i=cocos" alt="Cocos2d-x" />
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity" />
     <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
     <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /> 
