@@ -7,7 +7,7 @@
   ---
   
   ### 👨‍💻 About Me
-  My name is **Rogelio Salas Vargas**, but I prefer to be called **Roy**. I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology and AI.
+  My name is **Rogelio Salas**, I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology and AI.
   I’m constantly learning new skills and working on exciting projects!
   
   I’m currently open for an Intern or a new job opportunity, this is [my_resume](https://drive.google.com/file/d/1omphYCOCBVpIvMN8NzR6L_6O8Xg0SwQT/view?usp=sharing)
