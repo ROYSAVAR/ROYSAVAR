@@ -58,16 +58,15 @@
   
   ---
   
-  ### 🌱 **Courseworks**
-  - Machine Learning  
-  - Optimization and Metaheuristics  
-  - Data Structures and Algorithms  
-  - Operating Systems  
-  - Design Patterns  
-  - Databases  
-  - Object-Oriented Programming  
-  - Mobile Application Development (Android)  
-  - Web Application Development
+  ### ** Software Engineer Intern at Marelli **
+
+                                                                                                           January 2025 – Present
+•	Designed, developed, and deployed a new internal application using C#, .NET, and Vue.js.
+•	Maintained and optimized existing systems to ensure high performance, scalability, and reliability.
+•	Collaborated with cross-functional teams to identify, debug, and resolve software issues efficiently.
+•	Wrote clean, maintainable, and well-documented code following industry best practices.
+•	Utilized SQL Server for efficient database management and query optimization.
+
   
   ---
   
