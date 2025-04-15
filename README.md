@@ -23,9 +23,10 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    
   </p>
   
   #### **Web Development**  
@@ -44,7 +45,7 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
-    <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" />
+ 
 
   </p>
   
