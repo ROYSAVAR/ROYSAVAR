@@ -58,7 +58,7 @@
   
   ---
   
-  ### ** Software Engineer Intern at Marelli **
+  ### **Software Engineer Intern at Marelli**
 
                                                                                                            January 2025 – Present
 •	Designed, developed, and deployed a new internal application using C#, .NET, and Vue.js.
