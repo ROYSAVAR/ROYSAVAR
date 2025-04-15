@@ -17,7 +17,7 @@
   
   ---
   
-  ### 🛠️ **Technical Skills**
+  ###  **Technical Skills**
   #### **Programming Languages**  
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
@@ -39,7 +39,6 @@
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
   </p>
   
-  ---
   
   #### **Databases**  
   <p align="center">
@@ -74,7 +73,7 @@
   
   ---
   
-  ### 💼 **Projects**
+  ###  **Projects**
   #### **License Plate Detection using Machine Learning (Feb 2024)**  
   Developed a license plate detection system in Python by training a model with a dataset of images to differentiate between plates and non-plates, followed by character recognition to extract plate information.
   
@@ -91,13 +90,13 @@
   
   ---
   
-  ### 📜 **Certifications**
+  ###  **Certifications**
   - **Blockchain** — *Blockdemy (Blockchain Academy)* — Issued: November 2023  
   - **Artificial Intelligence and Data Science** — *The Blockmarkers* — Issued: November 2023  
   
   ---
   
-  ### 🌍 **Languages**
+  ###  **Languages**
   - **English**: Advanced  
   - **Spanish**: Native  
   
