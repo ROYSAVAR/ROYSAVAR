@@ -25,6 +25,7 @@
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   </p>
   
   #### **Web Development**  
@@ -34,14 +35,17 @@
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+    <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
   </p>
   
   ---
   
   #### **Databases**  
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
+    <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" />
+
   </p>
   
   #### **Tools & Others**  
@@ -58,9 +62,8 @@
   
   ---
   
-  ### **Software Engineer Intern at Marelli**
-
-                                                                                                           January 2025 – Present
+  ### **Software Engineer Intern at Marelli - (January 2025 – Present)**
+                                    
 •	Designed, developed, and deployed a new internal application using C#, .NET, and Vue.js.
 •	Maintained and optimized existing systems to ensure high performance, scalability, and reliability.
 •	Collaborated with cross-functional teams to identify, debug, and resolve software issues efficiently.
