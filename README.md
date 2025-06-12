@@ -67,30 +67,29 @@
 •	Collaborated with cross-functional teams to identify, debug, and resolve software issues efficiently.
 •	Wrote clean, maintainable, and well-documented code following industry best practices.
 •	Utilized SQL Server for efficient database management and query optimization.
+• Migrated source control and project management workflows from Team Foundation Server (TFS) to Azure DevOps Services, enabling cloud-based collaboration, streamlined CI/CD pipelines, and modern DevOps practices.
 
-  
+ ### **Finalist – Draper Data Science Business Plan Competition at The University of Texas at San Antonio (UTSA) - (April 2025)**
+                                    
+• Selected as one of the top 8 finalist teams across North America.
+• Represented Universidad Panamericana (campus Aguascalientes) alongside a multidisciplinary team.
+• Presented ClinikIA, a medical management platform powered by Augmented AI.
+• Recognized for innovation in artificial intelligence applied to healthcare.
+• Honored to pitch in front of industry leaders and compete in an international startup-focused event.
   ---
   
   ###  **Projects**
+
+    
+  #### **Comparative Study of CNN Architectures for Poultry Disease Detection (May 2025)**  
+  Conducted a performance comparison of deep learning CNN models for poultry disease classification, enhancing diagnostic accuracy and model efficiency through AI.
+  
   #### **License Plate Detection using Machine Learning (Feb 2024)**  
   Developed a license plate detection system in Python by training a model with a dataset of images to differentiate between plates and non-plates, followed by character recognition to extract plate information.
   
+
+
   
-  
-  #### **Sumo Robot using AVR Microcontroller Atmega16A in C (March 2024)**  
-  Developed an autonomous sumo robot using ATmega16A microcontroller programmed in C++, using sensors for detecting opponents and a motor control system for strategic movements.
-  
-  
-  
-  #### **Egg incubator system using AVR Microcontroller Atmega16A in C (April 2024)**  
-  Creating life...
-  Egg incubator system using ATmega16A microcontroller, programmed in C++, incorporating temperature and humidity control with a mobile app via Bluetooth for monitoring and adjustments.
-  
-  ---
-  
-  ###  **Certifications**
-  - **Blockchain** — *Blockdemy (Blockchain Academy)* — Issued: November 2023  
-  - **Artificial Intelligence and Data Science** — *The Blockmarkers* — Issued: November 2023  
   
   ---
   
