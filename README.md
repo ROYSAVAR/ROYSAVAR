@@ -60,22 +60,25 @@
   
   ---
   
-  ### **Software Engineer Intern at Marelli - (January 2025 – Present)**
-                                    
-•	Designed, developed, and deployed a new internal application using C#, .NET, and Vue.js.
-•	Maintained and optimized existing systems to ensure high performance, scalability, and reliability.
-•	Collaborated with cross-functional teams to identify, debug, and resolve software issues efficiently.
-•	Wrote clean, maintainable, and well-documented code following industry best practices.
-•	Utilized SQL Server for efficient database management and query optimization.
-• Migrated source control and project management workflows from Team Foundation Server (TFS) to Azure DevOps Services, enabling cloud-based collaboration, streamlined CI/CD pipelines, and modern DevOps practices.
+## Software Engineer Intern at Marelli — *(January 2025 – Present)*
 
- ### **Finalist – Draper Data Science Business Plan Competition at The University of Texas at San Antonio (UTSA) - (April 2025)**
-                                    
-• Selected as one of the top 8 finalist teams across North America.
-• Represented Universidad Panamericana (campus Aguascalientes) alongside a multidisciplinary team.
-• Presented ClinikIA, a medical management platform powered by Augmented AI.
-• Recognized for innovation in artificial intelligence applied to healthcare.
-• Honored to pitch in front of industry leaders and compete in an international startup-focused event.
+- Designed, developed, and deployed a new internal application using **C#**, **.NET**, and **Vue.js**.  
+- Maintained and optimized existing systems to ensure high performance, scalability, and reliability.  
+- Collaborated with cross-functional teams to identify, debug, and resolve software issues efficiently.  
+- Wrote clean, maintainable, and well-documented code following industry best practices.  
+- Utilized **SQL Server** for efficient database management and query optimization.  
+- Migrated source control and project management workflows from **TFS** to **Azure DevOps Services**, enabling cloud-based collaboration, streamlined CI/CD pipelines, and modern DevOps practices.
+
+---
+
+## Finalist – Draper Data Science Business Plan Competition at UTSA — *(April 2025)*
+
+- Selected as one of the **top 8 finalist teams across North America**.  
+- Represented **Universidad Panamericana (campus Aguascalientes)** alongside a multidisciplinary team.  
+- Presented **ClinikIA**, a medical management platform powered by Augmented AI.  
+- Recognized for innovation in artificial intelligence applied to healthcare.  
+- Honored to pitch in front of industry leaders and compete in an international startup-focused event.
+
   ---
   
   ###  **Projects**
