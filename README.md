@@ -10,7 +10,7 @@
   My name is **Rogelio Salas**, I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology and AI.
   I’m constantly learning new skills and working on exciting projects!
   
-  I’m currently open for an Intern or a new job opportunity, this is [my_resume]([https://drive.google.com/file/d/1omphYCOCBVpIvMN8NzR6L_6O8Xg0SwQT/view?usp=sharing](https://drive.google.com/file/d/12jUDmW6u5GuvdglBbz0mbY6lhnj2_VLH/view?usp=sharing))
+  I’m currently open for an Intern or a new job opportunity, this is [my_resume]([https://drive.google.com/file/d/1omphYCOCBVpIvMN8NzR6L_6O8Xg0SwQT/view?usp=sharing])(https://drive.google.com/file/d/12jUDmW6u5GuvdglBbz0mbY6lhnj2_VLH/view?usp=sharing))
   
   📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
   🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) | [Instagram](https://www.instagram.com/roy_savar/)
