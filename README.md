@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    
     
   </p>
   
@@ -38,14 +38,15 @@
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" />
     <img src="https://skillicons.dev/icons?i=django" alt="Django" />
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
+    <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+
   </p>
   
   
   #### **Databases**  
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" />
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" />
- 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" />
 
   </p>
   
@@ -54,10 +55,16 @@
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" />
     <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /> 
   </p>
+
+  #### **Cloud**  
+  <p align="center">
+     <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  </p>
+
+
+ 
   
   ---
   
