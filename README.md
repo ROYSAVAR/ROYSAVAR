@@ -7,8 +7,8 @@
   ---
   
   ### 👨‍💻 About Me
-  My name is **Rogelio Salas**, I am a Bachelor's student in **Artificial Intelligence Engineering** at **Universidad Panamericana** in Aguascalientes, Mexico. Passionate about coding, technology and AI.
-  I’m constantly learning new skills and working on exciting projects!
+  
+  My name is **Rogelio Salas**, and I hold a Bachelor’s degree in **Artificial Intelligence Engineering** from **Universidad Panamericana** (2021–2025). I am currently pursuing a Specialization in Software      Quality (expected   completion: June 2026). Passionate about coding, technology, and AI, I am constantly learning new skills and working on exciting projects.
   
  I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3naiM0Qco/view?usp=sharing)
 
@@ -46,7 +46,8 @@
   #### **Databases**  
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=mssql" alt="SQL Server" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="48" />
+
 
   </p>
   
