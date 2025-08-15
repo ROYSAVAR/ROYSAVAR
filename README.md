@@ -46,9 +46,7 @@
   #### **Databases**  
   <p align="center">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/8c/Microsoft_SQL_Server_Logo.svg" alt="SQL Server" width="48" />
-
-
+    
   </p>
   
   #### **Tools & Others**  
@@ -69,7 +67,7 @@
   
   ---
   
-## Software Engineer Intern at Marelli — *(January 2025 – Present)*
+## Software Engineer Intern at Marelli — *(January 2025 – June 2025)*
 
 - Designed, developed, and deployed a new internal application using **C#**, **.NET**, and **Vue.js**.  
 - Maintained and optimized existing systems to ensure high performance, scalability, and reliability.  
