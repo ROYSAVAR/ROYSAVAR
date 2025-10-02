@@ -62,14 +62,22 @@ This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3nai
   #### **Cloud**  
   <p align="center">
      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
   </p>
-
-
+  
  
   
   ---
+## **Junior Data Engineer at Capgemini** - (*September 2025 – Present)*  
+
+
+- Currently undergoing training in **Data Engineering** and **Cloud technologies**.  
+- Gaining hands-on experience with **AWS** and **Azure** for data storage, processing, and analytics.  
+- Learning and building **ETL/ELT pipelines** using **SQL** and **SSIS**.  
+- Developing skills in **data modeling**, **data warehousing**, and **data pipeline optimization**.  
+- Preparing to work on real-world projects involving large-scale data processing and business intelligence solutions.
   
-## Software Engineer Intern at Marelli — *(January 2025 – June 2025)*
+## **Software Engineer Intern at Marelli** — *(January 2025 – June 2025)*
 
 - Designed, developed, and deployed a new internal application using **C#**, **.NET**, and **Vue.js**.  
 - Maintained and optimized existing systems to ensure high performance, scalability, and reliability.  
@@ -77,6 +85,12 @@ This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3nai
 - Wrote clean, maintainable, and well-documented code following industry best practices.  
 - Utilized **SQL Server** for efficient database management and query optimization.  
 - Migrated source control and project management workflows from **TFS** to **Azure DevOps Services**, enabling cloud-based collaboration, streamlined CI/CD pipelines, and modern DevOps practices.
+
+## **Freelance Web Developer** - *(January 2024 – December 2024)*  
+- Developed websites for various businesses including chocolate shops, veterinary clinics, and university projects using **Django**, **HTML**, **CSS**, and **JavaScript**.  
+- Designed **responsive** and **user-friendly interfaces** to enhance user experience.  
+- Provided continuous maintenance, updates, and **performance optimization** to ensure reliability.  
+
 
 ---
 
