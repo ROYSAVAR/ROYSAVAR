@@ -8,9 +8,11 @@
   
   ### 👨‍💻 About Me
   
-  My name is **Rogelio Salas**, and I hold a Bachelor’s degree in **Artificial Intelligence Engineering** from **Universidad Panamericana** (2021–2025). I am currently pursuing a Specialization in Software      Quality (expected   completion: June 2026). Passionate about coding, technology, and AI, I am constantly learning new skills and working on exciting projects.
+Hi, I’m Rogelio Salas, a Software Engineer with a B.E. in Artificial Intelligence Engineering from Universidad Panamericana (2021–2025). I’m currently working as a Junior Data Engineer at Capgemini and pursuing a Specialization in Software Quality (expected completion: June 2026).
+
+Passionate about coding, AI, and cloud technologies, I’m always learning new skills and building projects that solve real-world problems.
   
- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3naiM0Qco/view?usp=sharing)
+This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3naiM0Qco/view?usp=sharing)
 
   
   📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
