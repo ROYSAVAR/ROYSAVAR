@@ -8,7 +8,7 @@
   
   ### 👨‍💻 About Me
   
-Hi, I’m Rogelio Salas, a Software Engineer with a B.E. in Artificial Intelligence Engineering from Universidad Panamericana (2021–2025). I’m currently working as a Junior Data Engineer at Capgemini and pursuing a Specialization in Software Quality (expected completion: June 2026).
+Hi, I’m **Rogelio Salas**, a Software Engineer with a B.E. in **Artificial Intelligence Engineering** from **Universidad Panamericana** (2021–2025). I’m currently working as a **Junior Data Engineer** at **Capgemini** and pursuing a **Specialization in Software Quality** (expected completion: June 2026).
 
 Passionate about coding, AI, and cloud technologies, I’m always learning new skills and building projects that solve real-world problems.
   
