@@ -63,6 +63,7 @@ This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3nai
   <p align="center">
      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
   </p>
   
  
