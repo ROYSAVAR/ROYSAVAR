@@ -56,6 +56,7 @@ This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3nai
     <img src="https://skillicons.dev/icons?i=github" alt="github" />
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
     <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" /> 
   </p>
 
