@@ -15,7 +15,7 @@ Passionate about coding, AI, and cloud technologies, I’m always learning new s
 This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3naiM0Qco/view?usp=sharing)
 
   
-  📧 Email: 0247152@up.edu.mx | 📱 Phone: +52 449 256 14 69  
+  📧 Email: rogeliosavar@gmail.com | 📱 Phone: +52 449 256 14 69  
   🌐 [GitHub](https://github.com/ROYSAVAR) | [LinkedIn](https://www.linkedin.com/in/rogelio-salas-vargas-565587304/) | [Instagram](https://www.instagram.com/roy_savar/)
   
   ---
