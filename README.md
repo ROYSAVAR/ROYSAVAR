@@ -8,9 +8,12 @@
   
   ### 👨‍💻 About Me
   
-Hi, I’m **Rogelio Salas**, a Software Engineer with a B.E. in **Artificial Intelligence Engineering** from **Universidad Panamericana** (2021–2025). I’m currently working as a **Junior Data Engineer** at **Capgemini** and pursuing a **Specialization in Software Quality** (expected completion: June 2026).
+Hi, I’m **Rogelio Salas**, a Software Engineer with a B.E. in **Artificial Intelligence Engineering** from **Universidad Panamericana** (2021–2025) and a **Specialization in Software Quality**.
 
-Passionate about coding, AI, and cloud technologies, I’m always learning new skills and building projects that solve real-world problems.
+I’m currently working as a **Junior QA Tester at Capgemini**, where I focus on software quality, testing, and helping ensure reliable and high-quality solutions.
+
+Passionate about **software testing, AI, automation, and cloud technologies**, I’m always looking to expand my skills, take on new challenges, and contribute to projects that solve real-world problems.
+
   
 This is [my resume](https://drive.google.com/file/d/1lEo1TT_UxPc_ydE0VbKSghM3naiM0Qco/view?usp=sharing)
 
