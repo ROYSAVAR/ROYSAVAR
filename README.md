@@ -56,7 +56,7 @@ I enjoy exploring new technologies, solving complex problems, and developing inn
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js" alt="Programming Languages">
+  <img src="https://skillicons.dev/icons?i=python,r,java,cpp,c,cs,js" alt="Programming Languages">
 </p>
 
 ### 📊 Data Engineering & Databases
@@ -67,7 +67,6 @@ I enjoy exploring new technologies, solving complex problems, and developing inn
 
 - **Data Engineering:** ETL/ELT Pipelines, Data Integration, Data Transformation
 - **Databases:** SQL, MySQL, PostgreSQL, SQL Server
-- **Data Tools:** SQL Server Integration Services (SSIS)
 - **Concepts:** Data Modeling, Data Warehousing, Data Processing
 
 ### ☁️ Cloud Computing
@@ -171,7 +170,7 @@ These certifications reflect my interest in cloud technologies, generative AI, a
 **Junior Data Engineer | September 2025 – 2026**
 
 - Trained in **Data Engineering** and cloud technologies.
-- Worked with **SQL** and **SSIS** for ETL/ELT processes.
+- Gained experience with SQL and ETL/ELT concepts.
 - Gained exposure to **AWS** and **Azure** for cloud data solutions.
 - Developed knowledge of data modeling, data warehousing, and data pipeline optimization.
 - Explored cloud-based data processing and analytics solutions.
@@ -231,19 +230,6 @@ Developed a license plate detection and recognition system using machine learnin
 - Classified images containing license plates and non-plate objects.
 - Implemented character recognition to extract plate information.
 - Explored computer vision techniques for automated vehicle identification.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROYSAVAR&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROYSAVAR&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ROYSAVAR&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
 
 ---
 
